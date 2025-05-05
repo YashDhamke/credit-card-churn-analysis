@@ -1,10 +1,15 @@
-# Credit Card Customer Retention Dashboard
+# Credit Card Customer Churn Analysis
 
-This Power BI project analyzes behavioral patterns of 10,000+ customers to understand and reduce attrition.
+This Power BI dashboard project analyzes churn behavior among 10,000+ credit card users using 18 features including credit limit, card category, and usage patterns.
 
-## Key Insights
-- Attrition trends by income, education, and usage
-- DAX KPIs like churn rate, utilization ratio
-- Interactive slicers and visual storytelling
+![Dashboard Screenshot](powerbi.png)
+
+## 📊 Dashboard Features
+- Interactive visuals for churn analysis by education, income, card category, and usage
+- DAX-calculated KPIs like churn rate, average utilization ratio, and customer segment analysis
+- Slicers for better user interaction
+
+## 📌 Tools Used
+- Power BI
 
 
